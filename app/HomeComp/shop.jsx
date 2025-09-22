@@ -5,11 +5,11 @@ import React, { useState } from "react";
 import Link from "next/link";
 
 const cars = [
-  { id: 1, name: "Tesla Model 3", brand: "Tesla", type: "Electric", price: 50000, year: 2025, image: "https://images.unsplash.com/photo-1608877777892-dc04aa2fc229?auto=format&fit=crop&w=800&q=80", featured: true },
-  { id: 2, name: "BMW X5", brand: "BMW", type: "SUV", price: 65000, year: 2025, image: "https://images.unsplash.com/photo-1597002473068-2a60cb26d3d6?auto=format&fit=crop&w=800&q=80", featured: false },
-  { id: 3, name: "Ford Mustang", brand: "Ford", type: "Sports", price: 55000, year: 2025, image: "https://images.unsplash.com/photo-1616479186398-f6f64e40b36b?auto=format&fit=crop&w=800&q=80", featured: true },
-  { id: 4, name: "Audi Q7", brand: "Audi", type: "SUV", price: 70000, year: 2025, image: "https://images.unsplash.com/photo-1605033214214-8b4e9d4a35c1?auto=format&fit=crop&w=800&q=80", featured: false },
-  { id: 5, name: "Mercedes C-Class", brand: "Mercedes", type: "Sedan", price: 60000, year: 2024, image: "https://images.unsplash.com/photo-1618222210011-2f7c6c1f1a45?auto=format&fit=crop&w=800&q=80", featured: false },
+  { id: 1, name: "Tesla Model 3", brand: "Tesla", type: "Electric", price: 50000, year: 2025, image: "/1 (1).jpg", featured: true },
+  { id: 2, name: "BMW X5", brand: "BMW", type: "SUV", price: 65000, year: 2025, image: "/1 (2).jpg", featured: false },
+  { id: 3, name: "Ford Mustang", brand: "Ford", type: "Sports", price: 55000, year: 2025, image: "/1 (3).jpg", featured: true },
+  { id: 4, name: "Audi Q7", brand: "Audi", type: "SUV", price: 70000, year: 2025, image: "/1 (4).jpg", featured: false },
+  { id: 5, name: "Mercedes C-Class", brand: "Mercedes", type: "Sedan", price: 60000, year: 2024, image: "/1 (5).jpg", featured: false },
 ];
 
 const brands = ["All", "Tesla", "BMW", "Ford", "Audi", "Mercedes"];

@@ -12,7 +12,7 @@ const featuredCars = [
     type: "Electric",
     price: 75000,
     year: 2025,
-    image: "https://images.unsplash.com/photo-1618222221154-1f6d7c8a2d5e?auto=format&fit=crop&w=1200&q=80",
+    image: "/image.png",
     badge: "New",
   },
   {
@@ -21,7 +21,7 @@ const featuredCars = [
     type: "SUV",
     price: 85000,
     year: 2025,
-    image: "https://images.unsplash.com/photo-1605033214214-8b4e9d4a35c1?auto=format&fit=crop&w=1200&q=80",
+    image: "/1 (1).jpg",
     badge: "Featured",
   },
   {
@@ -30,7 +30,7 @@ const featuredCars = [
     type: "Sports",
     price: 65000,
     year: 2025,
-    image: "https://images.unsplash.com/photo-1608877777892-dc04aa2fc229?auto=format&fit=crop&w=1200&q=80",
+    image: "/1 (2).jpg",
     badge: "Limited",
   },
   {
@@ -39,7 +39,7 @@ const featuredCars = [
     type: "SUV",
     price: 70000,
     year: 2025,
-    image: "https://images.unsplash.com/photo-1616479186398-f6f64e40b36b?auto=format&fit=crop&w=1200&q=80",
+    image: "/1 (3).jpg",
     badge: "New",
   },
   {
@@ -48,7 +48,7 @@ const featuredCars = [
     type: "Sedan",
     price: 60000,
     year: 2024,
-    image: "https://images.unsplash.com/photo-1618222210011-2f7c6c1f1a45?auto=format&fit=crop&w=1200&q=80",
+    image: "/1 (4).jpg",
     badge: "Featured",
   },
   {
@@ -57,7 +57,7 @@ const featuredCars = [
     type: "Sedan",
     price: 60000,
     year: 2024,
-    image: "https://images.unsplash.com/photo-1618222210011-2f7c6c1f1a45?auto=format&fit=crop&w=1200&q=80",
+    image: "/1 (5).jpg",
     badge: "Featured",
   },
   {
@@ -66,7 +66,7 @@ const featuredCars = [
     type: "Sedan",
     price: 60000,
     year: 2024,
-    image: "https://images.unsplash.com/photo-1618222210011-2f7c6c1f1a45?auto=format&fit=crop&w=1200&q=80",
+    image: "/1 (6).jpg",
     badge: "Featured",
   },
   {
@@ -75,7 +75,7 @@ const featuredCars = [
     type: "Sedan",
     price: 60000,
     year: 2024,
-    image: "https://images.unsplash.com/photo-1618222210011-2f7c6c1f1a45?auto=format&fit=crop&w=1200&q=80",
+    image: "/1 (7).jpg",
     badge: "Featured",
   },
   {
@@ -84,7 +84,7 @@ const featuredCars = [
     type: "Sedan",
     price: 60000,
     year: 2024,
-    image: "https://images.unsplash.com/photo-1618222210011-2f7c6c1f1a45?auto=format&fit=crop&w=1200&q=80",
+    image: "/1 (8).jpg",
     badge: "Featured",
   },
 ];
