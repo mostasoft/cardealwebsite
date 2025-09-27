@@ -12,7 +12,7 @@ export default function Header() {
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 text-red-600 text-xl font-bold">
           <FaCarAlt className="text-2xl" />
-          AutoDealer
+          MostaSoft
         </Link>
 
         {/* Navigation */}

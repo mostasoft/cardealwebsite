@@ -18,7 +18,7 @@ export default function OurStory() {
         </div>
         <div>
           <img
-            src="/about-story.jpg"
+            src="/image.png"
             alt="Our Story"
             className="rounded-2xl shadow-lg"
           />
